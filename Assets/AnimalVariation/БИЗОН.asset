@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1fd2e9641f1214c9b065560963336a, type: 3}
+  m_Name: "\u0411\u0418\u0417\u041E\u041D"
+  m_EditorClassIdentifier: 
+  animalID: 6
+  animalName: "\u0411\u0418\u0417\u041E\u041D"
+  animalImage: {fileID: 21300000, guid: c46e3e2a3b27a1641a58fb92d7e812bb, type: 3}
+  animalSound: {fileID: 8300000, guid: 8ec59b8eb22475344943383d9215c8bf, type: 3}
